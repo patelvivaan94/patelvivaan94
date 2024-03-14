@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @patelvivaan94
+- 👋 Hi, I’m Vivaan
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning c#
-- 📫 How to reach me via email
+- 📫 You can reach out to me via email
 - 😄 Pronouns: He/Him
 
 <!---
